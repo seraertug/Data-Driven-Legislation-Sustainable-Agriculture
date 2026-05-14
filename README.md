@@ -16,6 +16,10 @@ AI is becoming an indispensable tool in modern agriculture. This project explore
 ## The Microbiome-to-Policy Bridge
 While predicting yield is the technical foundation, the real-world impact lies in decision analytics. In this project, we moved beyond the code to simulate how a government might use these insights. Results showed that data-driven land selection can significantly increase total national crop yield, proving that AI is a vital tool for evidence-based legislation.
 
+## **Simulation Results:**
+* **Model-Driven Selection:** 10.64 total yield
+* **Random Lottery Selection:** 7.60 average yield
+
 ## Project Context & Collaboration
 We developed this project during the **Inspirit AI Scholars Summer Program** (with a partial scholarship).
 
