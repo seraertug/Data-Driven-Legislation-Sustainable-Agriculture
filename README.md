@@ -19,6 +19,7 @@ While predicting yield is the technical foundation, the real-world impact lies i
 ## **Simulation Results:**
 * **Model-Driven Selection:** 10.64 total yield
 * **Random Lottery Selection:** 7.60 average yield
+* Our results showed that data-driven land selection leads to a **40% increase** in total crop yield, proving that AI is a vital tool for evidence-based legislation.
 
 ## Project Context & Collaboration
 We developed this project during the **Inspirit AI Scholars Summer Program** (with a partial scholarship).
