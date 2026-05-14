@@ -21,6 +21,12 @@ While predicting yield is the technical foundation, the real-world impact lies i
 * **Random Lottery Selection:** 7.60 average yield
 * Our results showed that data-driven land selection leads to a **40% increase** in total crop yield, proving that AI is a vital tool for evidence-based legislation.
 
+### Visualizing the Impact
+![Simulation Comparison](visualizations/lottery_vs_model_simulation.png)
+
+*Below is the distribution of 100 simulations using a random lottery system. The red dashed line represents the total yield achieved by our AI-driven model, clearly outperforming the average chance.*
+
+
 ## Policy Recommendation: Memo to the Legislator
 > "Our data-driven model demonstrates that predicting crop yields based on soil bacterial composition significantly increases agricultural efficiency compared to traditional random allocation methods. By integrating this AI-assisted approach into sustainable farming policies, we can optimize resource use and ensure long-term food security while minimizing environmental impact. I strongly recommend implementing this predictive model to transition from intuitive land management to evidence-based agricultural legislation."
 
